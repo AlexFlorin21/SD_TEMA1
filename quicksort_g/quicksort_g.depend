@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678734344 source:c:\users\desktop\desktop\unibuc\anul i(sem2)\sd(structuri de date)\proiect\quicksort_g\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
